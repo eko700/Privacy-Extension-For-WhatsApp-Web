@@ -2,15 +2,15 @@
 /* Copyright (c) 2024 Lukas Lenhardt - lukaslen.com             */
 /* Released under the MIT license, see LICENSE file for details */
 
-.tukmaf4q /*media preview in gallery*/,
-._1Pr6q /*media preview in send media*/
+.x18d0r48 /*media preview in gallery*/,
+._ajui /*media preview in send media*/
 {
   filter: blur(12px) grayscale(1);
   transition-delay: 0s;
 }
 
-.tukmaf4q:hover /*media preview in gallery*/,
-._1Pr6q:hover /*media preview in send media*/
+.x18d0r48:hover /*media preview in gallery*/,
+._ajui:hover /*media preview in send media*/
 {
   filter: blur(0) grayscale(0);
   transition-delay: 0.3s;

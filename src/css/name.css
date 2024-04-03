@@ -2,17 +2,17 @@
 /* Copyright (c) 2024 Lukas Lenhardt - lukaslen.com             */
 /* Released under the MIT license, see LICENSE file for details */
 
-div:not([role]) > div:not([role]) > ._8nE1Y ._21S-L /*user/group name in search message*/,
-div[role="row"] > div > ._8nE1Y ._21S-L /*user/group name in message list*/,
-div[role="button"] > div > ._8nE1Y ._21S-L /*user/group name in non message list*/,
-._3W2ap /*Top user/group name*/,
-._2au8k div:nth-child(2) /*Top group user preview*/,
+div:not([role]) > div:not([role]) > ._ak8l ._ak8q /*user/group name in search message*/,
+div[role="row"] > div > ._ak8l ._ak8q /*user/group name in message list*/,
+div[role="button"] > div > ._ak8l ._ak8q /*user/group name in non message list*/,
+._amig /*Top user/group name*/,
+._amie div:nth-child(2) /*Top group user preview*/,
 ._2HCBh ._1N-sl ._1mDG- /*Details groupname*/,
 .q9lllk4z /*Details username */,
 .qfejxiq4 .Mk0Bp._30scZ /*Details username business*/,
-.njub1g37 span._11JPr /*Starred messages user/group name*/,
+.xwoyzhm span._11JPr /*Starred messages user/group name*/,
 .a4ywakfo.qt60bha0 /*About user phone number*/,
-._3IzYj /*Message in chat*/,
+._ahxj /*Message in chat*/,
 .Efdtr /* name in contact attachment */,
 .djhxrpsl /* name in multi contact attachment */
 {
@@ -20,17 +20,17 @@ div[role="button"] > div > ._8nE1Y ._21S-L /*user/group name in non message list
   transition-delay: 0s;
 }
 
-div:not([role]) > div:not([role]) > ._8nE1Y ._21S-L:hover /*user/group name in search message*/,
-div[role="row"] > div > ._8nE1Y ._21S-L:hover /*user/group name in message list*/,
-div[role="button"] > div > ._8nE1Y ._21S-L:hover /*user/group name in non message list*/,
-._3W2ap:hover /*Top user/group name*/,
-._2au8k div:nth-child(2):hover /*Top group user preview*/,
+div:not([role]) > div:not([role]) > ._ak8l ._ak8q:hover /*user/group name in search message*/,
+div[role="row"] > div > ._ak8l ._ak8q:hover /*user/group name in message list*/,
+div[role="button"] > div > ._ak8l ._ak8q:hover /*user/group name in non message list*/,
+._amig:hover /*Top user/group name*/,
+._amie div:nth-child(2):hover /*Top group user preview*/,
 ._2HCBh:hover ._1N-sl ._1mDG- /*Details groupname*/,
 .q9lllk4z:hover /*Details username */,
 .qfejxiq4 .Mk0Bp._30scZ:hover /*Details username business*/,
-.njub1g37 span._11JPr:hover /*Starred messages user/group name*/,
+.xwoyzhm span._11JPr:hover /*Starred messages user/group name*/,
 .a4ywakfo.qt60bha0:hover /*About user phone number*/,
-._3IzYj:hover /*Message in chat*/,
+._ahxj:hover /*Message in chat*/,
 .Efdtr:hover /* name in contact attachment */,
 .djhxrpsl:hover /* name in multi contact attachment */
 {

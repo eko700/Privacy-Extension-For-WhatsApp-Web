@@ -3,8 +3,8 @@
 /* Released under the MIT license, see LICENSE file for details */
 
 /* mediaGallery */
-body:hover .tukmaf4q /*media preview in gallery*/,
-body:hover ._1Pr6q /*media preview in send media*/,
+body:hover .x18d0r48 /*media preview in gallery*/,
+body:hover ._ajui /*media preview in send media*/,
 
 /* mediaPreview */
 body:hover ._2AOIt div.ktbp76dp div[role="button"] img /*image landscape*/,
@@ -16,9 +16,9 @@ body:hover ._2AOIt .cm280p3y > div[role="button"] > div > div > div:not(:last-ch
 body:hover ._2AOIt .M6sU5 /*link*/,
 body:hover ._1BOF7 ._3cupO > div:not(.LldYr) /*link list*/,
 body:hover ._3V9pc /* gif */,
-body:hover .kknmh /*media reply thumb*/,
+body:hover ._agtm /*media reply thumb*/,
 body:hover ._2MmTH /*media send preview*/,
-body:hover .ZRhsD._2foMf /*Sticker*/,
+body:hover ._ajxk._ajxd /*Sticker*/,
 
 /* messages */
 body:hover ._2AOIt div:first-child /*normal message*/,
@@ -27,35 +27,35 @@ body:hover ._1qNn2 ._1nCcB /*sticker*/,
 body:hover ._1BOF7 ._1sykI /*blue info bar*/,
 
 /* messagesPreview */
-body:hover .vQ0w7 /*message preview*/,
+body:hover ._ak8k /*message preview*/,
 
 /* name */
-body:hover div:not([role]) > div:not([role]) > ._8nE1Y ._21S-L /*user/group name in search message*/,
-body:hover div[role="row"] > div > ._8nE1Y ._21S-L /*user/group name in message list*/,
-body:hover div[role="button"] > div > ._8nE1Y ._21S-L /*user/group name in non message list*/,
-body:hover ._3W2ap /*Top user/group name*/,
-body:hover ._2au8k div:nth-child(2) /*Top group user preview*/,
+body:hover div:not([role]) > div:not([role]) > ._ak8l ._ak8q /*user/group name in search message*/,
+body:hover div[role="row"] > div > ._ak8l ._ak8q /*user/group name in message list*/,
+body:hover div[role="button"] > div > ._ak8l ._ak8q /*user/group name in non message list*/,
+body:hover ._amig /*Top user/group name*/,
+body:hover ._amie div:nth-child(2) /*Top group user preview*/,
 body:hover ._2HCBh ._1N-sl ._1mDG- /*Details groupname*/,
 body:hover .q9lllk4z /*Details username */,
 body:hover .qfejxiq4 .Mk0Bp._30scZ /*Details username business*/,
-body:hover .njub1g37 span._11JPr /*Starred messages user/group name*/,
+body:hover .xwoyzhm span._11JPr /*Starred messages user/group name*/,
 body:hover .a4ywakfo.qt60bha0 /*About user phone number*/,
-body:hover ._3IzYj /*Message in chat*/,
+body:hover ._ahxj /*Message in chat*/,
 body:hover .Efdtr /* name in contact attachment */,
 body:hover .djhxrpsl /* name in multi contact attachment */,
 
 /* profilePic */
-body:hover [role="row"] > div > ._1AHcd ._13jwn /*profile pic message list*/,
-body:hover [role="button"] > div > ._1AHcd ._13jwn /*profile pic non message list*/,
-body:hover ._2pr2H /*message view profile pic*/,
-body:hover ._3WByx /*self profile pic*/,
-body:hover .stnyektq /*group chat msg profile pic*/,
+body:hover [role="row"] > div > ._ak8n ._ak8h /*profile pic message list*/,
+body:hover [role="button"] > div > ._ak8n ._ak8h /*profile pic non message list*/,
+body:hover .x1i4ejaq /*message view profile pic*/,
+body:hover ._ak0w /*self profile pic*/,
+body:hover .xgd8bvy /*group chat msg profile pic*/,
 body:hover ._3oha0._2xaO4 /* voice message profile pic */,
 body:hover ._3dPH0 /* contacts attachment */,
 body:hover .b021xdil /* multi contacts attachment */,
-body:hover .pz0xruzv /*Details direct profile pic*/,
-body:hover .njub1g37 ._3xH7K /*Details group profile pic*/,
-body:hover .njub1g37 .kk3akd72.claouzo6 /*Starred message profile pic*/
+body:hover .x1i4ejaq /*Details direct profile pic*/,
+body:hover .xwoyzhm ._amje /*Details group profile pic*/,
+body:hover .xwoyzhm .xww2gxu.xudhj91 /*Starred message profile pic*/
 {
   filter: blur(0) grayscale(0);
   transition-delay: 0s;
